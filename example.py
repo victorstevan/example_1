@@ -21,7 +21,7 @@ class Person:
 
 
 def main():
-    """Aqui que a mágica acontece"""
+    """Hello, World!""" 
 
     Tk().withdraw()
 
